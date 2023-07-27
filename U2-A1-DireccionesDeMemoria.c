@@ -2,7 +2,8 @@
 - Alumno: Marco Antonio García Bautista
 - Número de cuenta: 305027731
 - Licenciatura: Informática
-- Materia: Estructura de datos
+- Materia: Programación (Estructura de datos)
+- Profesora: María Elizabeth García Vargas
 - Descripción del programa: Programa que almacena los nombres de 5 animales e imprime la dirección de memoria
                             cuando se elija por el usuario alguno de ellos.
 */
