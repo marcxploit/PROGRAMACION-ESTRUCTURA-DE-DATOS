@@ -1,0 +1,8 @@
+D:\Mega\Proyectos\C\PROGRAMACION-ESTRUCTURA-DE-DATOS\Caso Practico Final - Ordenamiento Burbuja\Examen Final-Estructura De Datos\bin\Debug\Caso Practico Final.exe.config
+D:\Mega\Proyectos\C\PROGRAMACION-ESTRUCTURA-DE-DATOS\Caso Practico Final - Ordenamiento Burbuja\Examen Final-Estructura De Datos\bin\Debug\Caso Practico Final.exe
+D:\Mega\Proyectos\C\PROGRAMACION-ESTRUCTURA-DE-DATOS\Caso Practico Final - Ordenamiento Burbuja\Examen Final-Estructura De Datos\bin\Debug\Caso Practico Final.pdb
+D:\Mega\Proyectos\C\PROGRAMACION-ESTRUCTURA-DE-DATOS\Caso Practico Final - Ordenamiento Burbuja\Examen Final-Estructura De Datos\obj\Debug\Caso Practico Final.csproj.AssemblyReference.cache
+D:\Mega\Proyectos\C\PROGRAMACION-ESTRUCTURA-DE-DATOS\Caso Practico Final - Ordenamiento Burbuja\Examen Final-Estructura De Datos\obj\Debug\Caso Practico Final.csproj.SuggestedBindingRedirects.cache
+D:\Mega\Proyectos\C\PROGRAMACION-ESTRUCTURA-DE-DATOS\Caso Practico Final - Ordenamiento Burbuja\Examen Final-Estructura De Datos\obj\Debug\Caso Practico Final.csproj.CoreCompileInputs.cache
+D:\Mega\Proyectos\C\PROGRAMACION-ESTRUCTURA-DE-DATOS\Caso Practico Final - Ordenamiento Burbuja\Examen Final-Estructura De Datos\obj\Debug\Caso Practico Final.exe
+D:\Mega\Proyectos\C\PROGRAMACION-ESTRUCTURA-DE-DATOS\Caso Practico Final - Ordenamiento Burbuja\Examen Final-Estructura De Datos\obj\Debug\Caso Practico Final.pdb

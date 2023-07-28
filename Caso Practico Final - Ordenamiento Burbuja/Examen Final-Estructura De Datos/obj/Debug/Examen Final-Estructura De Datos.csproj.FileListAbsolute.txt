@@ -1,0 +1,8 @@
+D:\Mega\Proyectos\VisualStudio\Examen Final-Estructura De Datos\Examen Final-Estructura De Datos\obj\Debug\Examen Final-Estructura De Datos.csproj.AssemblyReference.cache
+D:\Mega\Proyectos\VisualStudio\Examen Final-Estructura De Datos\Examen Final-Estructura De Datos\obj\Debug\Examen Final-Estructura De Datos.csproj.SuggestedBindingRedirects.cache
+D:\Mega\Proyectos\VisualStudio\Examen Final-Estructura De Datos\Examen Final-Estructura De Datos\obj\Debug\Examen Final-Estructura De Datos.csproj.CoreCompileInputs.cache
+D:\Mega\Proyectos\VisualStudio\Examen Final-Estructura De Datos\Examen Final-Estructura De Datos\bin\Debug\Examen Final-Estructura De Datos.exe.config
+D:\Mega\Proyectos\VisualStudio\Examen Final-Estructura De Datos\Examen Final-Estructura De Datos\bin\Debug\Examen Final-Estructura De Datos.exe
+D:\Mega\Proyectos\VisualStudio\Examen Final-Estructura De Datos\Examen Final-Estructura De Datos\bin\Debug\Examen Final-Estructura De Datos.pdb
+D:\Mega\Proyectos\VisualStudio\Examen Final-Estructura De Datos\Examen Final-Estructura De Datos\obj\Debug\Examen Final-Estructura De Datos.exe
+D:\Mega\Proyectos\VisualStudio\Examen Final-Estructura De Datos\Examen Final-Estructura De Datos\obj\Debug\Examen Final-Estructura De Datos.pdb
